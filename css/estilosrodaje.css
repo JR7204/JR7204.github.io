@@ -1,0 +1,55 @@
+body { background-image: url(../img/Fondo.jpg); background-attachment: fixed; background-size: cover; margin: 0;}
+
+
+#menu { width: 130%; display: inline; text-align: center;}
+
+#menu a { text-decoration: none; color: #fff; font-size: 30px; padding: 5px 75px; }
+
+#menu a:hover { border-bottom: 2px solid #fff; }
+
+
+h2 { color: black; font-size: 30px; }
+
+
+#rodaje { margin: 107px 330px 60px 330px; }
+
+
+
+#portada img { width: 1000px; text-align: center; margin-bottom: 20px;}
+
+
+
+#texto { margin-top: 20px ; padding: 20px; }
+
+#texto {  border: solid #000 ; background-color: #000; }
+
+#texto p { color: #000; font-size: 25px; margin: 10px 20px;}
+
+#texto img { margin-top: 30px; }
+
+
+
+#london { margin-left:20px ; float: left; margin-right: 15px; }
+
+#entrevista { margin-left: 20px; margin-bottom: 20px; }
+
+
+#una { margin-left: 20px; }
+
+
+
+#r1 { background-color: #fff;  margin: 20px 10px;}
+
+#r1 iframe { margin-top: 20px; }
+
+#r2 { background-color: #fff;  margin: 20px 10px;}
+
+#r3 { background-color: #fff;  margin: 20px 10px;}
+
+
+
+#footer { background: #000; text-align: center; color: #fff; font-size: 15px; padding: 20px;}
+
+
+
+#redes { position: fixed; right: 20px; top: 420px; width: 36px; }

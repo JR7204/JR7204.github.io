@@ -1,0 +1,53 @@
+body { background-image: url(../img/Fondo.jpg); background-attachment: fixed; background-size: cover; margin: 0;}
+
+#titulo { text-align: center; margin-top: 6em; }
+
+
+#portada { text-align: center; margin-top: 3em;} 
+
+#portada img { width: 77em; margin: 0px 330px 50px 330px ;}
+
+
+#critica { text-align: center; margin-top: 50px; color: white;}
+
+#critica p { font-size: 25px; margin: 10px 20px; color: white; text-align: left; }
+
+#critica { border: solid 3px black; margin: 20px 330px 60px 330px; background-color: rgba(0, 0, 0, 1.0);}
+
+
+img.p1  { display: block; margin: auto; }
+
+img.p2  { display: block; margin: auto; }
+
+img.p3  { display: block; margin: auto; }
+
+img.p4  { display: block; margin: auto; }
+
+img.p5  { display: block; margin: auto; }
+
+
+
+#menu { width: 130%; display: inline; text-align: center;}
+
+#menu a { text-decoration: none; color: #fff; font-size: 30px; padding: 5px 75px; }
+
+#menu a:hover { border-bottom: 2px solid #fff; }
+
+
+
+#footer { background: #000; text-align: center; color: #fff; font-size: 15px; padding: 20px;}
+
+
+
+#redes { position: fixed; right: 20px; top: 420px; width: 36px; }
+
+
+
+hr { margin: 0px 330px;}
+
+
+
+
+
+
+

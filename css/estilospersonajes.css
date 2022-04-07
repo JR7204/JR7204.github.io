@@ -1,0 +1,65 @@
+body { background-image: url(../img/Fondo.jpg); background-attachment: fixed; background-size: cover; margin: 0;}
+
+h2 { color: black; }
+
+
+
+#menu { width: 130%; display: inline; text-align: center;}
+
+#menu a { text-decoration: none; color: #fff; font-size: 30px; padding: 5px 75px; }
+
+#menu a:hover { border-bottom: 2px solid #fff; }
+
+
+h2 { font-size: 30px; }
+
+
+#texto { margin-top: 20px ; padding-top: 50px; padding-right: 50px; padding-left: 50px; p}
+
+#texto {  border: solid #000 ; background-color: #000; }
+
+#texto p { color: #000; font-size: 25px; margin: 10px 20px;}
+
+#texto img { margin-top: 0px; margin-left: 20px; margin-right: 20px;}
+
+
+
+#portada img { width: 1000px; margin-bottom: 20px;}
+
+
+#personajes {  margin: 107px 330px 60px 330px; }
+
+
+#mickey img { float: left; margin-top: 10px; }
+
+#mickey { margin: 20px 10px; background-color: #fff; }
+
+
+#raymond img { float: left; margin-top: 10px; }
+
+#raymond {margin: 20px 10px; background-color: #fff; }
+
+
+#rosalind img { float: left; margin-top: 10px; }
+
+#rosalind {margin: 20px 10px; background-color: #fff; }
+
+
+#fletcher img { float: left; margin-top: 10px; }
+
+#fletcher { margin: 20px 10px; background-color: #fff; }
+
+
+#coach img { float: left; margin-top: 10px; }
+
+#coach { margin: 20px 10px; background-color: #fff; }
+
+
+#dry img { float: left; margin-top: 10px; }
+
+#dry { margin: 20px 10px; padding-bottom: 100px; background-color: #fff; }
+
+#footer { background: #000; text-align: center; color: #fff; font-size: 15px; padding: 20px;}
+
+
+#redes { position: fixed; right: 20px; top: 420px; width: 36px; }
