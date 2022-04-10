@@ -1,6 +1,8 @@
 body { background-image: url(../img/Fondo.jpg); background-attachment: fixed; background-size: cover; margin: 0;}
 
-#titulo { text-align: center; margin-top: 6em; }
+
+
+#titulo { text-align: center; margin: 6em }
 
 
 #portada { text-align: center; margin-top: 3em;} 
