@@ -5,7 +5,7 @@ body { background-image: url(../img/Fondo.jpg); background-attachment: fixed; ba
 
 #portada { text-align: center; margin-top: 3em;} 
 
-#portada img { width: 77em; margin: 0px 330px 50px 330px ;}
+#portada img { width: 77em;}
 
 
 #critica { text-align: center; margin-top: 50px; color: white;}
