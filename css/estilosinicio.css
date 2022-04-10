@@ -5,7 +5,7 @@ body { background-image: url(../img/Fondo.jpg); background-attachment: fixed; ba
 
 #portada { text-align: center; margin-top: 3em;} 
 
-#portada img { width: 77em;}
+#portada img { width: 77vw;}
 
 
 #critica { text-align: center; margin-top: 50px; color: white;}
@@ -27,7 +27,7 @@ img.p5  { display: block; margin: auto; }
 
 
 
-#menu { width: 130%; display: inline; text-align: center;}
+#menu { width: 100%; display: inline; text-align: center;}
 
 #menu a { text-decoration: none; color: #fff; font-size: 30px; padding: 5px 75px; }
 
