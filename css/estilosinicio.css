@@ -39,9 +39,14 @@ img.p5  { display: block; margin: auto; }
 
 
 
-#menu { width: 100%; text-align: center;}
+#menu { 
+	 
+	text-align: center;
+	padding: 0px 10vw;
 
-#menu a { text-decoration: none; color: #fff; font-size: 30px; padding: 5px 75px; }
+}
+
+#menu a { text-decoration: none; color: #fff; font-size: 30px; padding: 5px 4.2vw; }
 
 #menu a:hover { border-bottom: 2px solid #fff; }
 
@@ -51,7 +56,7 @@ img.p5  { display: block; margin: auto; }
 
 
 
-#redes { position: fixed; right: 20px; top: 420px; width: 36px; }
+#redes { position: fixed; right: 20px; top: 210px; width: 36px; }
 
 
 
@@ -61,7 +66,25 @@ img.p5  { display: block; margin: auto; }
 	color: #fff;
 	height: 2px;
 	width: 77vw;
-	margin:  0px 20vw;
+	margin:  0px 11vw;
+}
+
+
+@media screen and (max-width:768px) {
+	
+	
+
+	#critica img { width: 70vw; } 
+
+	#critica iframe { width: 70vw; height: 30vh; }
+
+	#titulo img { width: 70vw; margin: 1em ;}
+}
+
+  
+
+
+@media screen and (max-width:480px) {
 }
 
 
