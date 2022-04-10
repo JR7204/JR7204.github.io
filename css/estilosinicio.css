@@ -78,7 +78,11 @@ img.p5  { display: block; margin: auto; }
 
 	#critica iframe { width: 70vw; height: 30vh; }
 
-	#titulo  { width: 10vw; margin: 1em ;}
+	#titulo  { margin: 1em ;}
+
+	#titulo img { width: 65vw; }
+
+	#menu { width: 20vw; text-align: center; }
 }
 
   
