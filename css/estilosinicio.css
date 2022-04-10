@@ -12,6 +12,8 @@ body { background-image: url(../img/Fondo.jpg); background-attachment: fixed; ba
 
 #critica p { font-size: 25px; margin: 10px 20px; color: white; text-align: left; }
 
+.critica { text-align: center; }
+
 
 
 
