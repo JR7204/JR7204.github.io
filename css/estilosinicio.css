@@ -8,11 +8,19 @@ body { background-image: url(../img/Fondo.jpg); background-attachment: fixed; ba
 #portada img { width: 77vw;}
 
 
-#critica { text-align: center; margin-top: 50px; color: white; width: 77vw; border: solid 3px black; background-color: rgba(0, 0, 0, 1.0);}
+#critica { 
+	text-align: center; 
+	margin: 20vh 10vw; 
+	color: white; 
+	width: 77vw; border: 
+	solid 3px black; 
+	background-color: rgba(0, 0, 0, 1.0);
+
+}
 
 #critica p { font-size: 25px; margin: 10px 20px; color: white; text-align: left; }
 
-.critica { text-align: center; }
+
 
 
 
