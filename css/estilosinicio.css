@@ -74,15 +74,15 @@ img.p5  { display: block; margin: auto; }
 	
 	
 
-	#critica img { width: 70vw; } 
+	#critica img { width: 50vw; } 
 
-	#critica iframe { width: 70vw; height: 30vh; }
+	#critica iframe { width: 50vw; height: 10vh; }
 
 	#titulo  { margin: 1em ;}
 
-	#titulo img { width: 65vw; }
+	#titulo img { width: 45vw; }
 
-	#menu { width: 20vw; text-align: center; }
+	#menu { width: 10vw; text-align: center; }
 }
 
   
